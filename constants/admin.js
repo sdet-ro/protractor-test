@@ -1,0 +1,17 @@
+module.exports = {
+    webPage: 'https://www.check24.de/',
+    loginBtn: '.c24-meinkonto-reflink',
+    newCustomer: '#new_customer',
+    email: '#email',
+    password: '#password',
+    passwordRe: '#passwordrepetition',
+    regBtn: '#c24-kb-btn',
+    dismiss: '.dialog-box-close.button-cancel.close',
+    categ: '.c24-mainnav-sec-ele',
+    from: '#c24-travel-destination-element',
+    to: '#c24-travel-airport-element',
+    dateIcon: '.c24-travel-input-icon',
+    duration: '.c24-travel-js-open-duration-layer',
+    exact: '.c24-travel-speak-form-hidden-text',
+    searchBtn: '#c24-travel-search-button-element',
+};
